@@ -31,4 +31,4 @@ These insights help **optimize logistics, inventory, and customer experience str
 ✅ Offer **loyalty programs & discounts** for repeat customers.  
 
 
-🔗 **Project Repository:** *[https://www.kaggle.com/code/gauravkumar6374/e-commerce-sales-analysis-report]*  
+🔗 **Project Repository:** *[https://www.kaggle.com/code/gauravkumar6374/e-commerce-sales-analysis-test]*  
